@@ -9,7 +9,7 @@ have a reference to an issue.**
 ### Making your your first pull request
 
 - First, fork this repository
-- Clone it using ``` https://github.com/lugnitdgp/GSOC-HEAT-Twitter_Clone.git ```
+- Clone it using ``` https://github.com/lugnitdgp/GSOC-HEAT-Typing_Test_Website ```
 - It is always recommended to make your changes in a new branch rather than master.
   So create a new branch using ``` git branch mybug ```
 - Checkout into your new branch using ``` git checkout mybug ```
